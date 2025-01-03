@@ -1,0 +1,39 @@
+@import url('variaveis.css');
+
+h1 {
+    font-size: 2.2rem;
+    color: var(--header-font-color);
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+h2 {
+    font-size: 1.1rem;
+    color: var(--header-font-color);
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.header{
+    min-height: 200px;
+    max-height: 280px;
+    width: 100%;
+    background-color: var(--header-background-color);
+    color: var(--header-font-color);
+    border-bottom: 7px solid var(--border-color);
+    
+}
+.header-icones{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.header-icon{
+    max-width: 100px;
+    min-width: 20px;
+    padding: 15px;
+}

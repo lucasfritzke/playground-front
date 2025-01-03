@@ -1,0 +1,12 @@
+:root{
+    /*Back ground*/
+    --header-background-color: #051120d7;
+    --footer-background-color: #051120d7;
+    --main-background-color: #dde0e4d7;
+    --header-font-color: #f1f1f1;
+    --footer-font-color: #f1f1f1;
+    --border-color:#5c5856;
+
+    /*Font*/
+    --font-size: 16px;
+}

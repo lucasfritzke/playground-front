@@ -1,0 +1,18 @@
+@import url('variaveis.css');
+
+main {
+    width: 100%;
+    min-height: 400px;
+    background-color: var(--main-background-color);
+}
+
+.container-APIs  div {
+    
+
+}
+
+.container-APIs div img {  
+    width: 20vh;
+    height: 30vh;
+
+}
